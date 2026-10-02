@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/octopus-programmer-banner.png" alt="A red octopus programmer at a cozy desk with a laptop, coffee and books" width="100%">
+</p>
+
 <!-- 技术栈依据 XINGYI-PU 的公开项目 README 和依赖清单整理，2026-10-02。 -->
 
 ## 🛠️ Tech Stack
