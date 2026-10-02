@@ -30,14 +30,6 @@
   <img src="./github-metrics.svg" alt="XINGYI-PU's isometric contribution calendar and commit streak statistics" width="100%">
 </p>
 
----
-
-<h3 align="center">Thanks for visiting ❤️</h3>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=XINGYI-PU.XINGYI-PU" alt="Visitor counter">
-</p>
-
 ## ⭐ Star History
 
 <!-- 默认跟踪个人主页仓库；可把下方所有 XINGYI-PU/XINGYI-PU 改为自己的项目仓库。 -->
@@ -52,7 +44,8 @@
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="./assets/octopus-counter.png" alt="Visitor count shown by my ten octopus characters" width="560">
+  <img src="./assets/octopus-counter.png" alt="Visitor count shown by six octopus characters" width="560">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=XINGYI-PU.XINGYI-PU" alt="" width="1" height="1">
 </p>
 
 <p align="center"><sub>Thank you for visiting my profile.</sub></p>

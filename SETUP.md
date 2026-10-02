@@ -1,6 +1,6 @@
 # XINGYI-PU 的 GitHub Profile README
 
-这是可复制到个人主页仓库的独立文件包。README 包含技术栈表格、截图中的三种贡献可视化、致谢与访问徽章、Star History、Profile Views。
+这是可复制到个人主页仓库的独立文件包。README 包含技术栈表格、截图中的三种贡献可视化、底部致谢、Star History、Profile Views。
 
 ## 启用步骤
 
@@ -33,7 +33,7 @@ github-metrics.svg
 
 Star History 默认跟踪 `XINGYI-PU/XINGYI-PU` 仓库收到的 Star。若想展示某个项目，替换 README 中全部 `XINGYI-PU/XINGYI-PU`（包括明暗主题图片 URL 和跳转链接）；没有 Star 时图表可能为空。
 
-致谢下方的访客徽章和 Profile Views 章鱼计数器使用同一个 visitor-badge.laobi.icu 计数 ID（XINGYI-PU.XINGYI-PU）。章鱼图片由 Update Octopus Counter 工作流每小时同步，固定显示六位数字；章鱼形象按数位固定，数字随访问数更新。这个服务记录图片请求，受缓存、重复访问及自动同步请求影响，不等于独立访客人数。原 Moe Counter 服务阻止了自动读取，已不再使用其计数数据。
+已删除独立致谢和访客徽章模块。Profile Views 保留一个 1×1 像素的计数请求图片，用于记录访问；章鱼计数器使用同一个 visitor-badge.laobi.icu 计数 ID（XINGYI-PU.XINGYI-PU）。章鱼图片由 Update Octopus Counter 工作流每小时同步，固定显示六位数字；章鱼形象按数位固定，数字随访问数更新。这个服务记录图片请求，受缓存、重复访问及自动同步请求影响，不等于独立访客人数。原 Moe Counter 服务阻止了自动读取，已不再使用其计数数据。
 
 若图片无法显示：先检查 Actions 日志；确认图片已生成、仓库允许 Actions 写入、默认分支未阻止机器人提交；Metrics 失败时检查 `METRICS_TOKEN` 是否过期。第三方访问计数和 Star History 图片还依赖各自服务的可用性。
 
