@@ -33,6 +33,12 @@ github-metrics.svg
 
 Star History 默认跟踪 `XINGYI-PU/XINGYI-PU` 仓库收到的 Star。若想展示某个项目，替换 README 中全部 `XINGYI-PU/XINGYI-PU`（包括明暗主题图片 URL 和跳转链接）；没有 Star 时图表可能为空。
 
-致谢下方使用访客徽章，Profile Views 使用你提供的红色小章鱼图片，搭配 [Moe Counter](https://count.getloli.com/) 的 normal-1 数字主题；沿用原计数器 ID。两个服务分别计数，数值不一定相同；它们记录图片请求，受 GitHub 缓存和重复访问影响，不等于独立访客人数。计数从各自首次收到请求开始，未套用参考主页的起始日期。这里没有使用原例中的 Glitch 计数器。
+致谢下方的访客徽章和 Profile Views 章鱼计数器使用同一个 visitor-badge.laobi.icu 计数 ID（XINGYI-PU.XINGYI-PU）。章鱼图片由 Update Octopus Counter 工作流每小时同步，初始补齐七位数字；每位数字的形象固定。这个服务记录图片请求，受缓存、重复访问及自动同步请求影响，不等于独立访客人数。原 Moe Counter 服务阻止了自动读取，已不再使用其计数数据。
 
 若图片无法显示：先检查 Actions 日志；确认图片已生成、仓库允许 Actions 写入、默认分支未阻止机器人提交；Metrics 失败时检查 `METRICS_TOKEN` 是否过期。第三方访问计数和 Star History 图片还依赖各自服务的可用性。
+
+## 章鱼数字主题
+
+0：原章鱼；1：招手；2：大笑；3：惊讶；4：睡觉；5：哭泣；6：生气；7：爱心；8：疑惑；9：跳舞。
+
+复制文件包时，也需上传 `render_counter.py`、`assets/octopus-digits/`、`assets/octopus-counter.png` 和 `.github/workflows/octopus-counter.yml`。新工作流无需额外 Secret，定时在每小时第 17 分钟执行（GitHub 可能延迟）；手动运行可立即同步。数据源失败时任务报错并保留最后一次成功生成的计数图片，不会伪造或重置数字。
