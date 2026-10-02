@@ -33,6 +33,6 @@ github-metrics.svg
 
 Star History 默认跟踪 `XINGYI-PU/XINGYI-PU` 仓库收到的 Star。若想展示某个项目，替换 README 中全部 `XINGYI-PU/XINGYI-PU`（包括明暗主题图片 URL 和跳转链接）；没有 Star 时图表可能为空。
 
-致谢下方使用访客徽章，Profile Views 使用 [Moe Counter](https://count.getloli.com/) 的绿色主题。两个服务分别计数，数值不一定相同；它们记录图片请求，受 GitHub 缓存和重复访问影响，不等于独立访客人数。计数从各自首次收到请求开始，未套用参考主页的起始日期。这里没有使用原例中的 Glitch 计数器。
+致谢下方使用访客徽章，Profile Views 使用你提供的红色小章鱼图片，搭配 [Moe Counter](https://count.getloli.com/) 的 normal-1 数字主题；沿用原计数器 ID。两个服务分别计数，数值不一定相同；它们记录图片请求，受 GitHub 缓存和重复访问影响，不等于独立访客人数。计数从各自首次收到请求开始，未套用参考主页的起始日期。这里没有使用原例中的 Glitch 计数器。
 
 若图片无法显示：先检查 Actions 日志；确认图片已生成、仓库允许 Actions 写入、默认分支未阻止机器人提交；Metrics 失败时检查 `METRICS_TOKEN` 是否过期。第三方访问计数和 Star History 图片还依赖各自服务的可用性。

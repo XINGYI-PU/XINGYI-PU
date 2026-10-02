@@ -52,7 +52,9 @@
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://count.getloli.com/@XINGYI-PU.github.readme?theme=green&amp;darkmode=auto" alt="Profile views counter">
+  <img src="./assets/red-octopus.png" alt="My red octopus mascot waving hello" width="180">
+  <br>
+  <img src="https://count.getloli.com/@XINGYI-PU.github.readme?theme=normal-1&amp;darkmode=auto" alt="Profile views counter">
 </p>
 
-<p align="center"><sub>Thank you for stopping by. Happy coding! ✨</sub></p>
+<p align="center"><sub>Thank you for visiting my profile.</sub></p>
