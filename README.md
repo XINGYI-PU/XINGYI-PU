@@ -34,9 +34,10 @@
   <img src="./github-metrics.svg" alt="XINGYI-PU's isometric contribution calendar and commit streak statistics" width="100%">
 </p>
 
+<!-- STAR_HISTORY_TEMPORARILY_HIDDEN
 ## ⭐ Star History
 
-<!-- 默认跟踪个人主页仓库；可把下方所有 XINGYI-PU/XINGYI-PU 改为自己的项目仓库。 -->
+默认跟踪个人主页仓库；可把下方所有 XINGYI-PU/XINGYI-PU 改为自己的项目仓库。
 <a href="https://star-history.com/#XINGYI-PU/XINGYI-PU&amp;Date">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=XINGYI-PU/XINGYI-PU&amp;type=Date&amp;theme=dark">
@@ -44,6 +45,7 @@
     <img src="https://api.star-history.com/svg?repos=XINGYI-PU/XINGYI-PU&amp;type=Date" alt="Star history of XINGYI-PU's profile repository" width="100%">
   </picture>
 </a>
+-->
 
 ## 👀 Profile Views
 
